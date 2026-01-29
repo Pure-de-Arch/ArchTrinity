@@ -168,28 +168,26 @@ xorg-server
 xorg-xinit
 
 ### Display Manager
-lightdm
-lightdm-gtk-greeter
+tdm
 
 ### On-ISO drivers
 nvidia-dkms
 
 ### Fonts
-noto-fonts
-noto-fonts-emoji
+#noto-fonts
+#noto-fonts-emoji
 
 ## Background and services
-pipewire
-pipewire-pulse
-pipewire-jack
-pipewire-alsa
-wireplumber
+#pipewire
+#pipewire-pulse
+#pipewire-jack
+#pipewire-alsa
+#wireplumber
 
 ### Spice
 spice-vdagent
 
 ### Desktop
-
 tde-tdebase
 tde-tdenetwork
 tde-tdeutils
